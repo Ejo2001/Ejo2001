@@ -34,9 +34,13 @@ OS:
 My Homelab:
 
 HP Proliant DL380p G8
+
 Dell PowerEdge R720
+
 Intel 1U R1304JP4OC
+
 HP Proliant DL120 G6
+
 HP Proliant DL180 G6
 
 
