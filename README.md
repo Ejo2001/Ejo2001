@@ -29,3 +29,14 @@ OS:
 <img src="https://codeit.guru/wp-content/uploads/2016/04/logo1-1.png" alt="drawing" width="50"/>
 <img src="https://cedalo.com/wp-content/uploads/2021/05/Raspi-PGB001.png" alt="drawing" width="50"/>
 </div>
+
+
+My Homelab:
+
+HP Proliant DL380p G8
+Dell PowerEdge R720
+Intel 1U R1304JP4OC
+HP Proliant DL120 G6
+HP Proliant DL180 G6
+
+
