@@ -1,3 +1,3 @@
 ### Print("Hello World!") 👋
 
-![Dev_Ops Cycle](![image](https://user-images.githubusercontent.com/66305456/153580688-7b047e44-1e9e-43d1-87a7-2aec2c7996bd.png))
+![Dev_Ops Cycle](https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif)
