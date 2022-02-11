@@ -1,4 +1,3 @@
 ### Print("Hello World!") 👋
 
-My name is Erik \n
-*My name is Erik*
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
