@@ -17,9 +17,11 @@ Tools I Use:
 
 OS:
 
+<div class="inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="drawing" width="50"/>
 <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="drawing" width="50"/>
 <img src="https://pbs.twimg.com/profile_images/1410615191528607751/TtimQSyt_400x400.png)" alt="drawing" width="50"/>
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/dbd93820-4ed5-4f22-92fa-0071fad10e2b/211076ef-3d5b-4568-8315-960b473a18bc" alt="drawing" width="50"/>
 <img src="https://codeit.guru/wp-content/uploads/2016/04/logo1-1.png" alt="drawing" width="50"/>
+</div>
