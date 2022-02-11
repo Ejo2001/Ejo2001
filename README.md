@@ -47,3 +47,20 @@ HP Proliant DL120 G6
 HP Proliant DL180 G6
 
 
+### Workstation specs:
+
+CPU: AMD Ryzen 7 3800X
+
+GPU: Nvidia RTX 2070 Super
+
+RAM: Corsair Vengence RGB PRO 32Gb DDR4 3600Mhz CL18
+
+MOTHERBOARD: Asus ROG STRIX X570-E Gaming
+
+STORAGE: 2Tb Kingston KC2500 M.2 + 1Tb MSI SPATIUM M480 M.2 SSD + 1Tb Samsung QVO 2"5 SSD
+
+COOLING: MSI MAG Core Liquid 360R
+
+PSU: Corsair 850W
+
+CASE: Phanteks P600S Tempered Glass Black
