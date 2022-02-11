@@ -12,6 +12,9 @@ Tools I Use:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="drawing" width="50"/>
+<img src="https://pbs.twimg.com/media/B62xj9FCUAA3YoC.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="drawing" width="50"/>
 </div>
 
 
@@ -24,4 +27,5 @@ OS:
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ardebian_logo_512_0.png" alt="drawing" width="50"/>
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/dbd93820-4ed5-4f22-92fa-0071fad10e2b/211076ef-3d5b-4568-8315-960b473a18bc" alt="drawing" width="50"/>
 <img src="https://codeit.guru/wp-content/uploads/2016/04/logo1-1.png" alt="drawing" width="50"/>
+<img src="https://cedalo.com/wp-content/uploads/2021/05/Raspi-PGB001.png" alt="drawing" width="50"/>
 </div>
