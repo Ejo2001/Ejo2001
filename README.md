@@ -1,3 +1,3 @@
 ### Print("Hello World!") 👋
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Dev_Ops Cycle](https://www.anblicks.com/wp-content/uploads/2021/08/DevSecOps.gif.gif)
