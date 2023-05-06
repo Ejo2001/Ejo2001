@@ -59,8 +59,6 @@ MOTHERBOARD: Asus ROG STRIX X570-E Gaming
 
 STORAGE: 2Tb Kingston KC2500 M.2 + 1Tb MSI SPATIUM M480 M.2 SSD + 1Tb Samsung QVO 2"5 SSD
 
-COOLING: MSI MAG Core Liquid 360R
-
 PSU: Corsair 850W
 
 CASE: Phanteks P600S Tempered Glass Black
